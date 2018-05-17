@@ -1,5 +1,5 @@
 # Lista de materiales
-=========
+
 | Cantidad | Dispositivo | Descripción |
 |---|---|---|
 | 1 | ATmega328P-PU | Microcontrolador AVR RISC 8-bit 20 Mhz |
