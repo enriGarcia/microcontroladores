@@ -3,8 +3,8 @@ El circuito base es lo mínimo necesario para comenzar a realizar las prácticas
 
 ## Conexión de la fuente de alimentación
 1. Conecte el siguiente diagrama:
-
 ![Circuito de alimentación](/images/sourceCircuit.png)
+
 2. Conecte su fuente de alimentación. Con un multímetro cheque que realmente `Vcc` tenga el valor de `5.0V`. Si no es así, revise sus conexiones.
 
 ## Conexión de la tarjeta Usbasp
