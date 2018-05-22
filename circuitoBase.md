@@ -22,3 +22,5 @@ El circuito base es lo mínimo necesario para comenzar a realizar las prácticas
 ![Borrado con éxito](/images/eraseSucces.png)
 
 4. Ha completado con éxito la conexión del circuito base.
+
+![Circuito base en protoboard](/images/imgProto.jpg)
