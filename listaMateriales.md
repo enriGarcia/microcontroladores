@@ -11,6 +11,7 @@
 | 1 | Capacitor electrolítico 220uF 25V | Tolerancia ± 20% |
 | 4 | Capacitor electrolítico 1uF 25V | Tolerancia ± 20% |
 | 10 | Resistencia de 330Ω 1/4W | Código: naranja, naranja, café, oro |
+| 5 | Resistencia de 1kΩ 1/4W | Código: café, negro, rojo, oro |
 | 5 | Resistencia de 10kΩ 1/4W | Código: café, negro, naranja, oro |
 | 4 | Resistencia de 220Ω 1/4W | Código: rojo, rojo, café, oro| 
 | 3 | Potenciómetros de 10kΩ | Tipo preset horizontal de 10 mm |
